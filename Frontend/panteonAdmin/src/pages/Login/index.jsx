@@ -60,7 +60,7 @@ export function Login() {
       const userData = response;
       console.log("storageye giden veri", userData);
       onLoginSuccess(userData);
-      storeLoginState(userData); // storage.js dosyasına veri kaydetme
+      storeLoginState(userData); 
       toast.success("Giriş başarılı!");
       setTimeout(() => {
         navigate("/building");
@@ -71,19 +71,24 @@ export function Login() {
         const validationErrors = axiosError.response.data.errors;
         const errorMessages = {};
 
-        // Gelen hataları errors state'ine ekleyelim
         for (const key in validationErrors) {
           if (Object.prototype.hasOwnProperty.call(validationErrors, key)) {
-            errorMessages[key.toLowerCase()] = validationErrors[key].join(" ");
+            if (Array.isArray(validationErrors[key])) {
+              errorMessages[key.toLowerCase()] = validationErrors[key].join(" ");
+            } else {
+              errorMessages[key.toLowerCase()] = validationErrors[key];
+            }
           }
         }
 
         setErrors(errorMessages);
         setGeneralError(axiosError.response.data.errors.Password);
+        toast.error(validationErrors[0]); // Gelen hata mesajını göster
       } else {
         setGeneralError(
           "Beklenmedik bir hata oluştu. Lütfen tekrar deneyiniz."
         );
+        toast.error("Beklenmedik bir hata oluştu. Lütfen tekrar deneyiniz.");
       }
     } finally {
       setApiProgress(false);

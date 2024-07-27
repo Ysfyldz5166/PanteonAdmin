@@ -44,6 +44,16 @@ export function SignUp() {
     setGeneralError("");
     setApiProgress(true);
 
+    // Şifre ve Şifre Tekrarı'nın aynı olup olmadığını kontrol etme
+    if (password !== passwordRepeat) {
+      setErrors((prevErrors) => ({
+        ...prevErrors,
+        passwordRepeat: "Şifreler uyuşmuyor",
+      }));
+      setApiProgress(false);
+      return;
+    }
+
     // Verileri consola yazdırma
     console.log({ userName, email, password });
 
@@ -146,6 +156,9 @@ export function SignUp() {
                 onChange={(event) => setPasswordRepeat(event.target.value)}
                 autoComplete="new-password"
               />
+              {errors.passwordRepeat && (
+                <div className="alert alert-danger">{errors.passwordRepeat}</div>
+              )}
             </div>
             {successMessage && (
               <div className="alert alert-success">{successMessage}</div>
@@ -156,9 +169,7 @@ export function SignUp() {
             <div className="text-center">
               <button
                 className="btn btn-outline-success"
-                disabled={
-                  apiProgress || !password || password !== passwordRepeat
-                }
+                disabled={apiProgress}
               >
                 {apiProgress && (
                   <span

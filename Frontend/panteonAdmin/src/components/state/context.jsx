@@ -15,7 +15,7 @@ export const LoginationProvider = ({ children }) => {
   };
 
   const onLogout = () => {
-    const updatedUser = { ...user, id: 0 };
+    const updatedUser = { id: 0 };
     setIsLoggedIn(false);
     setUser(updatedUser);
     storeLoginState(updatedUser);
