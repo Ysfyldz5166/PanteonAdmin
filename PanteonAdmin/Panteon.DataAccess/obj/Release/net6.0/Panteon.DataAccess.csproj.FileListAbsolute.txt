@@ -1,0 +1,17 @@
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\bin\Release\net6.0\Panteon.DataAccess.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\bin\Release\net6.0\Panteon.DataAccess.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\bin\Release\net6.0\Panteon.DataAccess.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\bin\Release\net6.0\Panteon.DataAccess.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\bin\Release\net6.0\Panteon.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\bin\Release\net6.0\Panteon.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\Panteon.DataAccess.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\Panteon.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\Panteon.DataAccess.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\Panteon.DataAccess.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\Panteon.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\Panteon..80DB4D2D.Up2Date
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\Panteon.DataAccess.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\refint\Panteon.DataAccess.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\Panteon.DataAccess.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\Panteon.DataAccess.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\PanteonAdmin\PanteonAdmin\Panteon.DataAccess\obj\Release\net6.0\ref\Panteon.DataAccess.dll

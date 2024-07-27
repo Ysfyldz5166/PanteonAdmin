@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-07-26T17:59:09.750152Z"
+    }
+  },
+  "parameters": {
+    "PanteonAPI.resourceGroupLocation": {
+      "Name": "PanteonAPI.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    },
+    "PanteonAPI.resourceName": {
+      "Name": "PanteonAPI.resourceName",
+      "Type": null,
+      "Value": "PanteonAPI"
+    },
+    "PanteonAPI.subscriptionId": {
+      "Name": "PanteonAPI.subscriptionId",
+      "Type": "subscription",
+      "Value": "50a1c8df-0393-4b6b-ab15-f323f15ca089"
+    },
+    "apis1.resourceGroupLocation": {
+      "Name": "apis1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "eastus"
+    },
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "PanteonAdminGroup"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "50a1c8df-0393-4b6b-ab15-f323f15ca089"
+    },
+    "PanteonAPI.resourceGroupName": {
+      "Name": "PanteonAPI.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "PanteonAdminGroup"
+    }
+  }
+}

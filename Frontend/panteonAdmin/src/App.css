@@ -1,0 +1,32 @@
+/* Genel sayfa stilleri */
+body {
+  background-color: #ff6600; /* Turuncu arka plan rengi */
+  color: #ffffff; /* Beyaz metin rengi */
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #000000; /* Siyah başlık rengi */
+}
+
+.card {
+  background-color: #333333; /* Siyah kart arka planı */
+  color: #ffffff; /* Beyaz kart metni */
+  border: none;
+}
+
+.btn-outline-success {
+  color: #ff6600;
+  border-color: #ff6600;
+}
+
+.btn-outline-success:hover {
+  background-color: #ff6600;
+  color: #ffffff;
+}
+
+.alert {
+  background-color: #ff6600;
+  color: #ffffff;
+  border: none;
+}
