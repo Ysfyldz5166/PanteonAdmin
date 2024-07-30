@@ -6,7 +6,7 @@ using Panteon.Repository.Buildings;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using Panteon.Business.Command.Buildings; // Bu satırı ekleyin
+using Panteon.Business.Command.Buildings; 
 
 namespace Panteon.Business.Handlers.Buildings
 {
@@ -27,7 +27,6 @@ namespace Panteon.Business.Handlers.Buildings
 
             if (building == null)
             {
-                // Hatanın liste şeklinde döndürüldüğünden emin olun
                 return ServiceResponse<BuildDto>.ReturnError(new List<string> { "Building not found." });
             }
 

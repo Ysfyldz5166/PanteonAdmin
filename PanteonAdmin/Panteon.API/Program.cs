@@ -44,7 +44,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "Panteon API V1");
-        c.RoutePrefix = string.Empty; // Swagger UI kök dizinde olsun
+        c.RoutePrefix = string.Empty;
     });
 }
 

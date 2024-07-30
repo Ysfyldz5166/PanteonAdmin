@@ -3,6 +3,78 @@
   "WorkspaceRootPath": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.business\\handler\\users\\getusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|solutionrelative:panteon.business\\handler\\users\\getusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.business\\handler\\users\\addusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|solutionrelative:panteon.business\\handler\\users\\addusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.business\\handler\\buildings\\updatebuildcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|solutionrelative:panteon.business\\handler\\buildings\\updatebuildcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.business\\handler\\buildings\\getallbuildqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|solutionrelative:panteon.business\\handler\\buildings\\getallbuildqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.business\\handler\\buildings\\deletebuildcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|solutionrelative:panteon.business\\handler\\buildings\\deletebuildcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.business\\handler\\buildings\\addbuildcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|solutionrelative:panteon.business\\handler\\buildings\\addbuildcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.business\\command\\buildings\\addbuildcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|solutionrelative:panteon.business\\command\\buildings\\addbuildcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.entities\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|solutionrelative:panteon.entities\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.entities\\dto\\builddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|solutionrelative:panteon.entities\\dto\\builddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.entities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|solutionrelative:panteon.entities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|solutionrelative:panteon.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.entities\\entities\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C276526-A5C6-46D1-8D80-861C35B9E0E8}|Panteon.Entities\\Panteon.Entities.csproj|solutionrelative:panteon.entities\\entities\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.api\\extension\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|solutionrelative:panteon.api\\extension\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.api\\extension\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|solutionrelative:panteon.api\\extension\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|solutionrelative:panteon.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.api\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|solutionrelative:panteon.api\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|solutionrelative:panteon.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|solutionrelative:panteon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{309CE839-C205-4E74-8D55-D23C766AF869}|Panteon.DataAccess\\Panteon.DataAccess.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.dataaccess\\migrations\\20240726184009_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{309CE839-C205-4E74-8D55-D23C766AF869}|Panteon.DataAccess\\Panteon.DataAccess.csproj|solutionrelative:panteon.dataaccess\\migrations\\20240726184009_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|solutionrelative:panteon.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FF20820-53EE-4C9C-84A7-82EE347B9CF9}|Panteon.API\\Panteon.API.csproj|solutionrelative:panteon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{030C2214-281D-46C0-81CE-5A8DE89C67BA}|Panteon.Business\\Panteon.Business.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\panteonadmin\\panteonadmin\\panteon.business\\validation\\buildings\\addbuildingsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,6 +107,227 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Users\\GetUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Panteon.Business\\Handler\\Users\\GetUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Users\\GetUserCommandHandler.cs",
+              "RelativeToolTip": "Panteon.Business\\Handler\\Users\\GetUserCommandHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:11:02.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Users\\AddUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Panteon.Business\\Handler\\Users\\AddUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Users\\AddUserCommandHandler.cs",
+              "RelativeToolTip": "Panteon.Business\\Handler\\Users\\AddUserCommandHandler.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:10:57.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBuildCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Buildings\\UpdateBuildCommandHandler.cs",
+              "RelativeDocumentMoniker": "Panteon.Business\\Handler\\Buildings\\UpdateBuildCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Buildings\\UpdateBuildCommandHandler.cs",
+              "RelativeToolTip": "Panteon.Business\\Handler\\Buildings\\UpdateBuildCommandHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:10:30.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllBuildQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Buildings\\GetAllBuildQueryHandler.cs",
+              "RelativeDocumentMoniker": "Panteon.Business\\Handler\\Buildings\\GetAllBuildQueryHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Buildings\\GetAllBuildQueryHandler.cs",
+              "RelativeToolTip": "Panteon.Business\\Handler\\Buildings\\GetAllBuildQueryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:10:27.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteBuildCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Buildings\\DeleteBuildCommandHandler.cs",
+              "RelativeDocumentMoniker": "Panteon.Business\\Handler\\Buildings\\DeleteBuildCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Buildings\\DeleteBuildCommandHandler.cs",
+              "RelativeToolTip": "Panteon.Business\\Handler\\Buildings\\DeleteBuildCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:10:22.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBuildCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Buildings\\AddBuildCommandHandler.cs",
+              "RelativeDocumentMoniker": "Panteon.Business\\Handler\\Buildings\\AddBuildCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Handler\\Buildings\\AddBuildCommandHandler.cs",
+              "RelativeToolTip": "Panteon.Business\\Handler\\Buildings\\AddBuildCommandHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:10:16.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBuildCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Command\\Buildings\\AddBuildCommand.cs",
+              "RelativeDocumentMoniker": "Panteon.Business\\Command\\Buildings\\AddBuildCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Command\\Buildings\\AddBuildCommand.cs",
+              "RelativeToolTip": "Panteon.Business\\Command\\Buildings\\AddBuildCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:10:11.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Panteon.Entities\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Panteon.Entities\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:09:57.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuildDto.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Dto\\BuildDto.cs",
+              "RelativeDocumentMoniker": "Panteon.Entities\\Dto\\BuildDto.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Dto\\BuildDto.cs",
+              "RelativeToolTip": "Panteon.Entities\\Dto\\BuildDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:09:55.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Panteon.Entities\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Panteon.Entities\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:09:50.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Panteon.Entities\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Entities\\User.cs",
+              "RelativeToolTip": "Panteon.Entities\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:09:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Build.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Entities\\Build.cs",
+              "RelativeDocumentMoniker": "Panteon.Entities\\Entities\\Build.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Entities\\Entities\\Build.cs",
+              "RelativeToolTip": "Panteon.Entities\\Entities\\Build.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:09:44.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Extension\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Panteon.API\\Extension\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Extension\\ValidationBehavior.cs",
+              "RelativeToolTip": "Panteon.API\\Extension\\ValidationBehavior.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:09:33.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartupExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Extension\\StartupExtensions.cs",
+              "RelativeDocumentMoniker": "Panteon.API\\Extension\\StartupExtensions.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Extension\\StartupExtensions.cs",
+              "RelativeToolTip": "Panteon.API\\Extension\\StartupExtensions.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:09:17.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Panteon.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Panteon.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:09:01.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuildingController.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Controllers\\BuildingController.cs",
+              "RelativeDocumentMoniker": "Panteon.API\\Controllers\\BuildingController.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Controllers\\BuildingController.cs",
+              "RelativeToolTip": "Panteon.API\\Controllers\\BuildingController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:08:52.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Panteon.API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Panteon.API\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:08:45.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "20240726184009_createDB.cs",
               "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.DataAccess\\Migrations\\20240726184009_createDB.cs",
               "RelativeDocumentMoniker": "Panteon.DataAccess\\Migrations\\20240726184009_createDB.cs",
@@ -51,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 19,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\appsettings.Production.json",
               "RelativeDocumentMoniker": "Panteon.API\\appsettings.Production.json",
@@ -59,12 +348,11 @@
               "RelativeToolTip": "Panteon.API\\appsettings.Production.json",
               "ViewState": "AQIAABsAAAAAAAAAAAAUwCMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-26T18:21:54.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T18:21:54.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\appsettings.json",
               "RelativeDocumentMoniker": "Panteon.API\\appsettings.json",
@@ -72,12 +360,11 @@
               "RelativeToolTip": "Panteon.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-26T18:13:09.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T18:13:09.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Panteon.API\\appsettings.Development.json",
@@ -85,25 +372,24 @@
               "RelativeToolTip": "Panteon.API\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-26T18:12:58.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T18:12:58.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Program.cs",
               "RelativeDocumentMoniker": "Panteon.API\\Program.cs",
               "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.API\\Program.cs",
               "RelativeToolTip": "Panteon.API\\Program.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAUwDsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T18:06:38.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "AddBuildingsValidator.cs",
               "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\PanteonAdmin\\PanteonAdmin\\Panteon.Business\\Validation\\Buildings\\AddBuildingsValidator.cs",
               "RelativeDocumentMoniker": "Panteon.Business\\Validation\\Buildings\\AddBuildingsValidator.cs",
